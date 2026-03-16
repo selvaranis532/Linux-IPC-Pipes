@@ -72,6 +72,7 @@ int main() {
 
 ## OUTPUT
 
+<img width="914" height="302" alt="Screenshot 2026-03-15 143616" src="https://github.com/user-attachments/assets/2b985c56-080a-4f8a-939a-064e77120e54" />
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
@@ -128,6 +129,8 @@ int main() {
 
 
 ## OUTPUT
+
+<img width="991" height="261" alt="Screenshot 2026-03-15 143821" src="https://github.com/user-attachments/assets/511822c3-038f-4231-985c-6cc6275d5e57" />
 
 
 # RESULT:
